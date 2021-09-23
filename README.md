@@ -11,5 +11,8 @@ Minesweeper rules are very simple. The board is divided into cells, with mines r
 
 It is guaranteed that the first square you open won't contain a mine, so you can start by clicking any square. Often you'll hit on an empty square on the first try and then you'll open up a few adjacent squares as well, which makes it easier to continue. Then it's basically just looking at the numbers shown, and figuring out where the mines are.
 <br/>
+
+
+
 <p align="center">
 <img src="https://github.com/mandanaGh/Minesweeper/blob/main/images/Minesweeper.jpg" width="600"></p>
