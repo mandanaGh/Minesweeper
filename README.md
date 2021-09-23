@@ -13,7 +13,6 @@ It is guaranteed that the first square you open won't contain a mine, so you can
 <br>
 <br>
 <br>
-<br>
 
 
 
